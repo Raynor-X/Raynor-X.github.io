@@ -1,8 +1,3 @@
-# My Portfolio :rocket:
+### My Page on web. 	:yum:
 
-**This is my personal blog**
-
-## What I Do
-* eat :ramen:
-* sleep :alarm_clock:
-* code :computer:
+<https://raynor-x.fail>
