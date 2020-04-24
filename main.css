@@ -1,6 +1,30 @@
 body{
-     background: url('../IMG20191208150133.jpg');
+    background-color: black;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+    body{
+        color: white; 
+    }
+hr {width: 100%;
+    margin-left:10px;
+    margin-right:10px;
+    height: 1px;
+    background-color:lightblue;
+    visibility: 0.5;
 }
 div {
     padding: 1%;
+}
+.contain{
+    float: left;
+width: 30%
+}
+.ani{
+    float: right;
+width: 60%
 }

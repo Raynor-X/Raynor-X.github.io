@@ -1,8 +1,9 @@
 canvas {
-  height: 75%;
+  height: 80%;
   left: 0;
-  position: fixed;
-  /*top: 0;*/
+  position: centre;
+  top: 60%;
   touch-action: none;
   width: 100%;
+  margin: 1px;
 }
