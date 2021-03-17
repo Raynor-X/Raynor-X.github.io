@@ -261,13 +261,13 @@ let mouseBody = new Body(new Vector(0, 0), new Vector(0, 0), -1000, 50, true);
 let bodyIndex = null;
 window.addEventListener('pointerdown', (e) => {
 	mouseBody.position.x = e.pageX - window.innerWidth * 0.5;
-	mouseBody.position.y = e.pageY - window.innerHeight * 0.5;
+	mouseBody.position.y = e.pageY -400 - window.innerHeight * 0.5;
 	console.log(mouseBody.position);
 	bodyIndex = sim.addBody(mouseBody);
 });
 window.addEventListener('pointermove', (e) => {
 	mouseBody.position.x = e.pageX - window.innerWidth * 0.5;
-	mouseBody.position.y = e.pageY - window.innerHeight * 0.5;
+	mouseBody.position.y = e.pageY - 400 - window.innerHeight * 0.5;
 });
 window.addEventListener('pointerup', (e) => {
 	sim.removeBody(bodyIndex);
