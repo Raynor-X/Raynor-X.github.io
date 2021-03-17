@@ -1,9 +1,9 @@
 canvas {
-  height: 80%;
+  height: 40%;
   left: 0;
   position: centre;
   top: 60%;
   touch-action: none;
-  width: 100%;
-  margin: 1px;
+  width: 90%;
+  margin: 10px;
 }
