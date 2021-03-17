@@ -1,6 +1,5 @@
-### My Page on web. 	:yum:
+### Personal Portfolio 	:yum:
 
-<https://raynor-x.fail>  /
 <https://Ayush-SR.github.io>
 
 ###### :grin:  :grin: :grin: :grin:
