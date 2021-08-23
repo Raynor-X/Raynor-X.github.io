@@ -1,6 +1,6 @@
 ### Personal Portfolio 	:yum:
 
-<https://Ayush-SR.github.io>
+<https://Raynor-X.github.io>
 
 ###### :grin:  :grin: :grin: :grin:
 
