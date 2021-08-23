@@ -1,9 +1,10 @@
 canvas {
-  height: 40%;
+  height: 90%;
   left: 0;
   position: centre;
-  top: 60%;
+  top: 90%;
   touch-action: none;
   width: 100%;
   margin: 10px;
+  object-fit: cover;
 }
